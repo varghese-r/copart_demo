@@ -1,0 +1,17 @@
+.bid {
+    padding: 20px;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.carSection {
+    margin-top: 20px;
+    display: flex;
+}
+
+.carSection > img {
+    height: 800px
+}

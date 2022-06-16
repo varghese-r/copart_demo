@@ -1,0 +1,33 @@
+.lotInfo {
+    padding-left: 2rem;
+    width: 30%;
+    font-weight: 400;
+}
+
+.lotInfo__title {
+    background-color: #1154FE;
+    color: white;
+    font-weight: bolder;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 1.5rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 40px;
+}
+
+.lotInfo__details {
+    padding: 1px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    font-weight: 200 !important;
+}
+
+.hr {
+    width: 80%;
+
+}
